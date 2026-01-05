@@ -3,6 +3,13 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
 
+## Peter's additions
+*.DS_Store
+*.ipynb_checkpoints
+
+
+##
+
 # User-specific files
 *.rsuser
 *.suo
